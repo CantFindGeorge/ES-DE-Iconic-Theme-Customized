@@ -1,5 +1,5 @@
 # About
-This is a customized version of the Iconic Theme for ES-DE. You can view the base theme here: [https://github.com/Siddy212/iconic-es-de-original/blob/main/README.md](https://github.com/Siddy212/iconic-es-de-original/tree/main)
+This is a customized version of the Iconic Theme for ES-DE. You can view the [base Iconic theme here](https://github.com/Siddy212/iconic-es-de-original/tree/main). You can also see the [writeup I made about how to install ES-DE on your phone here](https://cantfindgeorge.netlify.app/games/emulating-games/).
 
 # **Theme Customizations**
 This theme allows customizations to artwork without the need to edit the source XML.  This enables you to change the look of the theme and still retain any changes when the root theme is updated.
